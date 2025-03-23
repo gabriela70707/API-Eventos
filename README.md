@@ -26,5 +26,5 @@ Veja a documentação completa [aqui](https://documenter.getpostman.com/view/419
 ## Contato 😎
 Para dúvidas ou sugestões, entre em contato:
 - **Email**: gabrielasantos70707@gmail.com
-- **Linkedin**: 
+- **Linkedin**:[Gabriela Alejandra](https://www.linkedin.com/in/gabriela-alejandra-278b39355)
 - **GitHub**: [Gabriela70707](https://github.com/gabriela70707)
